@@ -11,7 +11,7 @@ const Header = () => {
                 <Navbar.Toggle />
                 <Navbar.Collapse className="justify-content-end">
                     <Navbar.Text>
-                        <img className='nav-profile' src="https://cdn.dribbble.com/users/2978235/screenshots/16100886/media/934c41da908b06a0b2d61440cd361340.jpg?compress=1&resize=400x300&vertical=top" alt="" />
+                        <img className='nav-profile' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxB_Qx33TdUD5_5sAukAa4KoFSktEd7Qjr5zc_H9fo&s" alt="" />
                     </Navbar.Text>
                 </Navbar.Collapse>
             </Container>
