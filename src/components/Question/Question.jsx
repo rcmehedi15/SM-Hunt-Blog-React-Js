@@ -51,7 +51,7 @@ const Faq = () => {
                 </div>
 
                 <div className='  p-2 text-center text'>
-                    <p>Copyright © <a href="https://www.facebook.com/rcmehedi15" target='_blank' className='text-decoration-none'>MD Mehedi Hasan</a> | HmdMehediHasan2016@gmail.com</p>
+                    <p>Copyright © <a href="https://www.facebook.com/rcmehedi15" target='_blank' className='text-decoration-none'>MD Mehedi Hasan</a> | HmdMehedi2016@gmail.com</p>
                 </div>
 
             </div>
